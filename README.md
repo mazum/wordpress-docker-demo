@@ -1,1 +1,1 @@
-# Creating a Wordpress App using Demo
+# Creating a Wordpress App using Docker
